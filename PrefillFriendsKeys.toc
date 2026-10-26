@@ -1,0 +1,12 @@
+## Interface: 120000, 120001, 120005, 120007, 120100
+## Title: Prefill Friends Keys
+## Notes: Select a shared keystone beside Premade Groups to prepare a Mythic+ listing.
+## Author: mandingavudu
+## X-License: MIT
+## SavedVariables: PrefillFriendsKeysDB
+
+Localization.lua
+Core.lua
+Options.lua
+KeystoneSharing.lua
+KeyList.lua
