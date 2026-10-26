@@ -2,7 +2,9 @@
 ## Title: Prefill Friends Keys
 ## Notes: Select a shared keystone beside Premade Groups to prepare a Mythic+ listing.
 ## Author: mandingavudu
+## Version: @project-version@
 ## X-License: MIT
+## X-Curse-Project-ID: 1767427
 ## SavedVariables: PrefillFriendsKeysDB
 
 Localization.lua

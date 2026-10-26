@@ -1,3 +1,7 @@
+# 1.0.1
+
+- Added CurseForge packaging and automatic releases through GitHub Actions when pushing version tags.
+
 # 1.0.0
 
 - Added a five-row scrolling keystone list beside Premade Groups, ordered by own key, party, guild, Battle.net friends, and character friends, with category-based title colors.

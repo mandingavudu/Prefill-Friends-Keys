@@ -1,0 +1,6 @@
+package-as: PrefillFriendsKeys
+
+ignore:
+  - .git
+  - .github
+  - README.md
