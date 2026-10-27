@@ -8,12 +8,14 @@ Licença / License: [MIT](LICENSE).
 
 ### Uso
 
+A interface acompanha o idioma do cliente: inglês, alemão, espanhol europeu e latino-americano, francês, italiano, coreano, português brasileiro, russo e chinês simplificado e tradicional. Termos do jogo usam a localização nativa da Blizzard; idiomas não reconhecidos usam inglês.
+
 1. Abra **Premade Groups → Dungeons**. A lista de chaves aparece à direita.
 2. Abra **Start a Group** e clique em uma chave. Isso seleciona a masmorra, **Mítica+** e o estilo de jogo padrão (**Competitivo** inicialmente).
 3. Confira o título. O `+nível` selecionado fica destacado no painel lateral: pressione **Ctrl+C**, clique no campo de título da Blizzard e cole, se necessário e permitido pela sua conta.
 4. Revise o anúncio e clique em **List Group**.
 
-Altere o padrão em **Options → AddOns → Prefill Friends Keys → Default playstyle**. Os quatro estilos da Blizzard estão disponíveis com os nomes no idioma do jogo. A preferência é compartilhada entre os personagens da conta, permanece após recarregar a interface ou reiniciar o jogo e passa a valer ao selecionar a próxima chave. Você ainda pode alterar manualmente o estilo no anúncio.
+Altere o estilo padrão em **Opções → AddOns → Prefill Friends Keys**. Os quatro estilos da Blizzard estão disponíveis com os nomes no idioma do jogo. A preferência é compartilhada entre os personagens da conta, permanece após recarregar a interface ou reiniciar o jogo e passa a valer ao selecionar a próxima chave. Você ainda pode alterar manualmente o estilo no anúncio.
 
 Quando o painel de perfil visível do Raider.IO se sobrepõe à lista, ela se move para a direita dele, deixando 8 pixels de espaço. Se não houver espaço, fica à esquerda dos grupos prontos ou abaixo do perfil quando nenhum dos lados comporta a lista. O posicionamento considera a escala da interface e acompanha movimentações, redimensionamentos e carregamento posterior do Raider.IO. Ocultar ou afastar o perfil restaura a posição habitual. O Raider.IO é opcional e seus painéis não são alterados.
 
@@ -39,12 +41,14 @@ A identificação da masmorra usa o ID do mapa da instância e as atividades Mí
 
 ### Use
 
+The interface follows your client language: English, German, European and Latin American Spanish, French, Italian, Korean, Brazilian Portuguese, Russian, and Simplified and Traditional Chinese. Game terms use Blizzard’s native localization; unrecognized locales fall back to English.
+
 1. Open **Premade Groups → Dungeons**. The key list appears on the right.
 2. Open **Start a Group** and click a key. This selects its dungeon, **Mythic+**, and your default playstyle (**Competitive** initially).
 3. Verify the title. The selected `+level` is highlighted in the side panel: press **Ctrl+C**, click Blizzard's Title field, and paste if needed and permitted by your account.
 4. Review the listing and click **List Group** yourself.
 
-Change the default under **Options → AddOns → Prefill Friends Keys → Default playstyle**. All four Blizzard playstyles are available using the client's localized labels. The preference is saved account-wide across reloads and sessions, and applies the next time you select a key. You can still change the listing's playstyle manually afterward.
+Change the default under **Options → AddOns → Prefill Friends Keys → Playstyle**. All four Blizzard playstyles are available using the client's localized labels. The preference is saved account-wide across reloads and sessions, and applies the next time you select a key. You can still change the listing's playstyle manually afterward.
 
 When Raider.IO's visible profile panel overlaps the key list, the list moves past its right edge with an 8-pixel gap. If there is insufficient room, it uses the left of Premade Groups, or below the profile if neither side fits. Position checks account for UI scale and follow profile movement, resizing, and late loading. Hiding or moving the profile away restores the usual position. Raider.IO is optional and its frames are left unchanged.
 

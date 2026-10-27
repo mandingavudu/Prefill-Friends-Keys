@@ -1,6 +1,16 @@
 ## Interface: 120000, 120001, 120005, 120007, 120100
 ## Title: Prefill Friends Keys
 ## Notes: Select a shared keystone beside Premade Groups to prepare a Mythic+ listing.
+## Notes-deDE: Zeigt geteilte Schlüsselsteine an und bereitet Gruppeneinträge vor.
+## Notes-esES: Muestra piedras angulares compartidas y prepara anuncios de grupo.
+## Notes-esMX: Muestra piedras angulares compartidas y prepara anuncios de grupo.
+## Notes-frFR: Affiche les clés partagées et prépare les annonces de groupe.
+## Notes-itIT: Mostra le chiavi condivise e prepara gli annunci di gruppo.
+## Notes-koKR: 공유된 쐐기돌을 표시하고 파티 모집 글을 준비합니다.
+## Notes-ptBR: Mostra chaves compartilhadas e prepara anúncios de grupo.
+## Notes-ruRU: Показывает общие ключи и подготавливает объявления групп.
+## Notes-zhCN: 显示共享钥石并准备队伍招募信息。
+## Notes-zhTW: 顯示共享鑰石並準備隊伍招募資訊。
 ## Author: mandingavudu
 ## Version: @project-version@
 ## X-License: MIT

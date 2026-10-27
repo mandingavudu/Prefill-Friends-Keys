@@ -1,3 +1,8 @@
+# 1.1.0
+
+- Added translations for all client languages, using Blizzard’s native localization for game terms and labels.
+- Adjusted the key-list heading and refresh button for localized text.
+
 # 1.0.1
 
 - Added CurseForge packaging and automatic releases through GitHub Actions when pushing version tags.
