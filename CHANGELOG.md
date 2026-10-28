@@ -1,3 +1,7 @@
+# 1.1.2
+
+- Replaced the copy/paste hint arrow with `>` in all languages to avoid a missing glyph.
+
 # 1.1.1
 
 - Moved English before Portuguese in the README and added a Portuguese addon description.

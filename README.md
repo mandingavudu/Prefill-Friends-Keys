@@ -12,7 +12,7 @@ The interface follows your client language: English, German, European and Latin 
 
 1. Open **Premade Groups → Dungeons**. The key list appears on the right.
 2. Open **Start a Group** and click a key. This selects its dungeon, **Mythic+**, and your default playstyle (**Competitive** initially).
-3. Verify the title. The selected `+level` is highlighted in the side panel: press **Ctrl+C**, click Blizzard's Title field, and paste if needed and permitted by your account.
+3. Verify the title. The selected `+level` is highlighted in the side panel with a `Ctrl+C > Ctrl+V` hint: press **Ctrl+C**, click Blizzard's Title field, and paste if needed and permitted by your account.
 4. Review the listing and click **List Group** yourself.
 
 Change the default under **Options → AddOns → Prefill Friends Keys → Playstyle**. All four Blizzard playstyles are available using the client's localized labels. The preference is saved account-wide across reloads and sessions, and applies the next time you select a key. You can still change the listing's playstyle manually afterward.
@@ -47,7 +47,7 @@ A interface acompanha o idioma do cliente: inglês, alemão, espanhol europeu e 
 
 1. Abra **Premade Groups → Dungeons**. A lista de chaves aparece à direita.
 2. Abra **Start a Group** e clique em uma chave. Isso seleciona a masmorra, **Mítica+** e o estilo de jogo padrão (**Competitivo** inicialmente).
-3. Confira o título. O `+nível` selecionado fica destacado no painel lateral: pressione **Ctrl+C**, clique no campo de título da Blizzard e cole, se necessário e permitido pela sua conta.
+3. Confira o título. O `+nível` selecionado fica destacado no painel lateral com a indicação `Ctrl+C > Ctrl+V`: pressione **Ctrl+C**, clique no campo de título da Blizzard e cole, se necessário e permitido pela sua conta.
 4. Revise o anúncio e clique em **List Group**.
 
 Altere o estilo padrão em **Opções → AddOns → Prefill Friends Keys**. Os quatro estilos da Blizzard estão disponíveis com os nomes no idioma do jogo. A preferência é compartilhada entre os personagens da conta, permanece após recarregar a interface ou reiniciar o jogo e passa a valer ao selecionar a próxima chave. Você ainda pode alterar manualmente o estilo no anúncio.
