@@ -1,3 +1,7 @@
+# 1.1.1
+
+- Moved English before Portuguese in the README and added a Portuguese addon description.
+
 # 1.1.0
 
 - Added translations for all client languages, using Blizzard’s native localization for game terms and labels.
