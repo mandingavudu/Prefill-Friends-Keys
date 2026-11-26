@@ -1,3 +1,7 @@
+# 1.1.4
+
+- Update the MIT license copyright notice to 2026 mandingavudu.
+
 # 1.1.3
 
 - Sync the CurseForge project description from the released README after each successful upload. The release workflow also supports manual description-only updates.
