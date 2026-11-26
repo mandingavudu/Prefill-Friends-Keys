@@ -1,3 +1,7 @@
+# 1.1.3
+
+- Sync the CurseForge project description from the released README after each successful upload. The release workflow also supports manual description-only updates.
+
 # 1.1.2
 
 - Replaced the copy/paste hint arrow with `>` in all languages to avoid a missing glyph.
