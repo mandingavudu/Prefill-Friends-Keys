@@ -4,7 +4,7 @@ License / Licença: [MIT](LICENSE).
 
 ## English
 
-WoW Retail / Midnight addon showing shared keystones beside Premade Groups.
+WoW Retail addon showing shared keystones beside Premade Groups.
 
 ### Use
 
@@ -39,7 +39,7 @@ Dungeon matching uses the challenge map's instance map ID and available Mythic+ 
 
 ## Português
 
-Addon para WoW Retail / Midnight que exibe pedras-chave compartilhadas ao lado dos Grupos prontos.
+Addon para WoW Retail que exibe pedras-chave compartilhadas ao lado dos Grupos prontos.
 
 ### Uso
 
