@@ -1,3 +1,7 @@
+# 1.1.5
+
+- Declare support for Retail 12.1.5 (`120105`) and use Retail terminology in the README.
+
 # 1.1.4
 
 - Update the MIT license copyright notice to 2026 mandingavudu.
